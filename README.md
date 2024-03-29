@@ -1,4 +1,4 @@
-# EXCEL
+# EXCEL FOR DATA VISUALIZATION
 Title: Excel Operations Repository: Cleaning, Optimizing, and Analyzing Data
 
 Description: Explore a repository dedicated to Excel operations encompassing data cleaning, optimization, and analysis. Utilizing an array of Excel functions including aggregate functions, pivot tables, VLOOKUP, macros, and charts, this repository serves as a comprehensive resource for mastering data manipulation and visualization.
